@@ -6,6 +6,7 @@ Para rodar a aplicação:
 Baixar o PyCharm;
 Abrir o PyCharm;
 Rodar cada um dos códigos/aplicações dentro do PyCharm.
+((Caso apareça uma mensagem, clicar em 'Trust Project'))
 Para rodar os códigos deve:
 > Selecionar 'Open Project';
 > Encontrar a pasta que está a aplicação;
